@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://abc123.ngrok-free.app",
+      "permanent": false
+    }
+  ]
+}
