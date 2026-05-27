@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://botviewer.chatbot.staging.owl.works/api/webhook/route_id/cmpnlo27c00plch1s20s30beo",
+      "destination": "https://channel-event-gateway.chatbot.staging.owl.works/api/v1/routes/cmpny2ag000xk1477ju9yg6if/conversation",
       "permanent": false
     }
   ]
