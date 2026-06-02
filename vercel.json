@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "http://localhost:3031/api/webhook/route_id/cmpwrizr5000n13pawqv9d4zz",
+      "destination": "http://localhost:3031/api/webhook/route_id/cmpwsbu7i002c13pabw6q34kz",
       "permanent": false
     }
   ]
