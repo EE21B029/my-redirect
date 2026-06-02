@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://botviewer.chatbot.staging.owl.works/api/webhook/route_id/cmpwjaqzl0022tll2abf7f821",
+      "destination": "http://localhost:3031/api/webhook/route_id/cmpwrizr5000n13pawqv9d4zz",
       "permanent": false
     }
   ]
