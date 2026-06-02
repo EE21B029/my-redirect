@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://botviewer.chatbot.staging.owl.works/api/v1/typebots/sow-agent-9rw6kls/startChat",
+      "destination": "https://botviewer.chatbot.staging.owl.works/api/webhook/route_id/cmpw4o9bg00zf55n2m14hpvwk",
       "permanent": false
     }
   ]
