@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "http://channel-event-gateway-service-service/api/v1/routes/cmr1t5u7600unl3fc98p3dav1/conversation",
+      "destination": "https://channel-event-gateway.chatbot.staging.owl.works/api/v1/routes/cmqmkku8e000j14l8otw8cjqd/conversation",
       "permanent": false
     }
   ]
